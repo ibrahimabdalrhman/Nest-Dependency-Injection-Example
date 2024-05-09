@@ -23,8 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-ؤي ىث
-
+Simple Example about Nest Dependency Injection
 
 ![alt text](image.png)
 
